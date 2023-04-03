@@ -6,7 +6,7 @@ description 'ESX Data Store'
 
 version '1.0'
 legacyversion '1.9.1'
-server_only 'yes'
+
 
 lua54 'yes'
 
