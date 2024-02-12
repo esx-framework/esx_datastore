@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Data Store'
+description 'Used for storing Data, such as society inventories'
 
 version '1.0'
 legacyversion '1.9.1'
